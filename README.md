@@ -2,7 +2,7 @@
 Projeto desenvolvido durante a operação Ricardo Franco 2017 para controle de efetivos nas bases avançadas do Centro de Instrução de Guerra na Selva (CIGS).
 
 ## Visão Geral
-<Colocar imagens aqui...>
+![Arquitetura do Sistema]: (/screenshots/arquitetura_sistema.png)
 
 ## Dependências
     *   Python 2.7;
